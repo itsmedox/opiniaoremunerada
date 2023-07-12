@@ -8,9 +8,9 @@
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-    "inter_max": "37c0fd7e2939a3be",
-    "max_banner": "13482be8f771efc7",
-    "Native_max": "76d87171404718ed",
+    "inter_max": "0ca7af64937f833d",
+    "max_banner": "2a86b2c7330049b5",
+    "Native_max": "c3d68868c33b72f7",
 
     "startapp_id": "139480955",
 
@@ -23,39 +23,40 @@
 
     "Image_cpaLink" : "",
     "LinkCpa": "",
+    
 
-    "ImageUrl_banner": "",
+    "ImageUrl_banner": "https://iili.io/HstUSZG.png",
     "LinkCpa_banner": "",
-    "ImageUrl_banner1": "",
+    "ImageUrl_banner1": "https://iili.io/HstUSZG.png",
     "LinkCpa_banner1": "",
-    "ImageUrl_banner2": "",
+    "ImageUrl_banner2": "https://iili.io/HstUSZG.png",
     "LinkCpa_banner2": "",
 
-    "Image_exit": "",
+    "Image_exit": "https://iili.io/HstUSZG.png",
     "link_exit": "",
 
-    "privacy" : "https://policies.google.com/privacy?hl=en-US",
-    "url_exit": "https://www.google.com/",
-    "url_bottom_coins": "https://www.google.com/",
+    "privacy" : "",
+    "url_exit": "",
+    "url_bottom_coins": "",
 
-    "Text_tips1": "Plánovat události a sdílet je s přáteli bez námahy",
-    "Text_tips2": "Welcome koolssa poley",
-    "Text_tips3": "A objev nové možnosti s Koolssa Poleym!",
-    "Text_tips4": "Koolssa Poley je inovativní mobilní aplikace",
-    "Text_tips5": "Která zjednodušuje tvůj život s přehledným rozhraním.",
-    "Text_tips6": "Svěží design a uživatelsky přívětivé prostředí ",
-    "Text_tips7": "Umocňují tvoji produktivitu a pohodlí.",
-    "Text_tips8": "S Koolssa Poleym můžeš organizovat své úkoly,",
+    "Text_tips1": "Performance Tips",
+    "Text_tips2": " App Recommendations and Reviews",
+    "Text_tips3": "Welcome Our APP ",
+    "Text_tips4": "Task  and Productivity",
+    "Text_tips5": " Problem Solving",
+    "Text_tips6": " Education and Resources ",
+    "Text_tips7": "Security and Privacy Tools",
+    "Text_tips8": " Community and Discussion",
 
 
-    "Text_title1": "Sdílej své úspěchy a pokroky s ostatními,",
-    "Text_title2": "A vytváření seznamů ti usnadní nakupování",
-    "Text_title3": "Integrovaný kalendář ti pomáhá udržet přehled",
-    "Text_title4": "Jednoduchá synchronizace s cloudovým úložištěm ",
-    "Text_title5": "Zajišťuje, že tvoje data jsou vždy v bezpečí",
-    "Text_title6": "immerse yourself in the tranquil ambiance in eskimo people",
-    "Text_title7": "Využij svůj telefon k plnému potenciálu.",
-    "Text_title8": "Stáhni si aplikaci ještě dnes",
+    "Text_title1": "O site Pesquisa Remunerada é totalmente diferente dos outros sites que você já conhece",
+    "Text_title2": "A melhor parte deste novo site é que você pode ganhar dinheiro rapidamente online apenas fornecendo feedback de maneira muito simples. ",
+    "Text_title3": "Basta marcar "sim" ou "não" quando o nome das empresas aparecerem para receber alguns centavos, que são acumulados em seu saldo. No site Pesquisa Remunerada, é necessário acumular pelo menos R$5 para receber via Pix. Além disso, só é possível fazer retiradas uma vez por mê",
+    "Text_title4": "Neste vídeo, ensino de forma clara e objetiva várias dicas valiosas para evitar bloqueios em sua conta. Sempre leia as perguntas, pois existem pegadinhas para testar sua atenção. Nunca marque "sim" caso a empresa não tenha sido fundada no Brasil",
+    "Text_title5": "this app prioritizes the security and privacy of its users",
+    "Text_title6": "Não, Opinião Remunerada esta funcionando normalmente ",
+    "Text_title7": " app offers a robust portfolio management  ",
+    "Text_title8": "app in history and place",
 
 
     "Text_buttonCoins" : "Male ",
